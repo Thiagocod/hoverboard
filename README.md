@@ -1,8 +1,6 @@
 ## Project construction:
 
-Using canvas and javaScript programming, an image formed by hundreds of circles connected by lines from a text was created.
-
-The animation is made from the movement of the mouse, with a complex mathematical calculation it is possible to repel the circles and fragment the image.
+Animating box with random colors.
 
 
 ## Text Animation technologies used:
