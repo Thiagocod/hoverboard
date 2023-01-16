@@ -14,9 +14,9 @@ The animation is made from the movement of the mouse, with a complex mathematica
 <td> JavaScript </td>
 </tr>
 <tr>
-<td> 10% </td>
-<td> 5% </td>
-<td> 85% </td>
+<td> 24% </td>
+<td> 30% </td>
+<td> 46% </td>
 </tr>
 <table>
 
