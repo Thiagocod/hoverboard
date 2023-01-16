@@ -22,7 +22,7 @@ The animation is made from the movement of the mouse, with a complex mathematica
 
 ## Project preview:
   
-  ![TextAnimation](https://user-images.githubusercontent.com/65191024/161281490-5b73ea87-19c4-4181-81ff-228072f72399.gif)
+  ![TextAnimation](https://user-images.githubusercontent.com/65191024/212781574-46a6870a-7dfa-476b-abd0-76ea1d3791f8.gif)
 
 ### Project based on a video by youtuber Frank for study.
 
