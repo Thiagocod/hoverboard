@@ -24,4 +24,4 @@ Animating box with random colors.
 
 ### Project based on a video by youtuber Frank for study.
 
-## <a href="https://thiagocod.github.io/textAnimate/">Click here for demo<a>
+## <a href="https://thiagocod.github.io/hoverboard/">Click here for demo<a>
